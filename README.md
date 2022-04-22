@@ -69,10 +69,63 @@ The dataset can be accessed from the `Data` Folder.
 * ResNet50 : 91%
 * ResNet50 Tuned : 95%
 
-## Author
-* Rishikesh Sivakumar
+<h2 align= "left"><b>Project Maintainer(s)</b></h2>
 
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/) by [Rishikesh Sivakumar](https://www.linkedin.com/in/rishikesh-sivakumar-1a166a18b/)
+<table>
+<tr align="center">
+  
+  <td>
+  
+Rishikesh S
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/53835355?v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+</p>
+<p align="center">
+<a href = "https://github.com/rishusiva"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/rishikesh-sivakumar-1a166a18b/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+<td>
+
+Yash Kesarwani
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/61273294?v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+</p>
+<p align="center">
+<a href = "https://github.com/yashkesar"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/yash-kesarwani-14568218b/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+
+<td>
+  
+ <td>
+
+Ananya Negi
+
+<p align="center">
+<img src = "https://avatars.githubusercontent.com/u/54092197?v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+</p>
+<p align="center">
+<a href = "https://github.com/AnanyaNegi"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
+<a href = "https://www.linkedin.com/in/ananya-negi-42922018a/">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36"/>
+</a>
+</p>
+</td>
+
+
+
+
+  </table>
 
 ## Contribution 
 
