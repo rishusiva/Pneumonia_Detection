@@ -32,19 +32,19 @@ The dataset can be accessed from the `Data` Folder.
 ### VGG-19
 
 <p align="left">
-<img width=50% src="Images/3.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=50% src="images/vgg_result.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 </p>
 
 ### ResNet50
 
 <p align="left">
-<img width=50% src="Images/3.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=50% src="images/resnet50_result.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 </p>
 
 ### ResNet50 - Fine Tuned
 
 <p align="left">
-<img width=50% src="Images/3.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=50% src="images/fine_tuned_result.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 </p>
 
 ## How to Use
