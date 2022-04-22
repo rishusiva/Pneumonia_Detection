@@ -21,51 +21,53 @@ Dataset consists of images of 2 classes of chest X-ray images:
 2. Normal
 
 <p align="left">
-<img width=40% src="Images/1.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-<img width=40% src="Images/2.png"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
+<img width=50% src="images/data1.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+<img width=40% src="images/data2.jpeg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp; 
 </p>
 
-The dataset can be accessed from the `Feature_Extraction` Folder.
+The dataset can be accessed from the `Data` Folder.
 
-## Model 
+## Model Results
 
-LSTM Model is trained using the extracted keypoints from the `Feature_Extraction` folder and later used for real time predictions.
+### VGG-19
 
 <p align="left">
 <img width=50% src="Images/3.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
 </p>
 
-The Weights of the model are saved in the `lstm_model.h5` file.
+### ResNet50
+
+<p align="left">
+<img width=50% src="Images/3.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+</p>
+
+### ResNet50 - Fine Tuned
+
+<p align="left">
+<img width=50% src="Images/3.jpg"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
+</p>
 
 ## How to Use
 
 * Clone the repository using :
 
-        $ git clone https://github.com/rishusiva/Pose-Network
+        $ git clone https://github.com/rishusiva/Pneumonia_Detection
                 
 * Enter the directory using:
 
-        $ cd Pose-Network/
+        $ cd Pneumonia_Detection/
       
 * Install the requirements using:
 
         $ pip install -r requirements.txt
 
-* To Predict Sign Languages in Real Time , run : 
-
-        $ python3 test.py
+* Run the demo notebook 
         
 ## Results
 
-* Our LSTM Model, after training for only 100 epochs, has an accuracy of *70%*
-* It produced an accuracy score of *1.0* on a test set of 5 images.
-* Our Trained LSTM Model is then used for real time testing. 
-
-### Prediction Results:
-
-<p align="left">
-<img width=50% src="Images/4 (1).gif"> &ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;&ensp;
-</p>
+* VGG-19 : 85%
+* ResNet50 : 91%
+* ResNet50 Tuned : 95%
 
 ## Author
 * Rishikesh Sivakumar
@@ -76,7 +78,6 @@ The Weights of the model are saved in the `lstm_model.h5` file.
 
 Contributions are always welcome! You can contribute to this project in the following way:
 - [ ] Increasing the accuracy 
-- [ ] Adding more signs 
 - [ ] Bug fixes if any
 - [ ] Creating an application
 
