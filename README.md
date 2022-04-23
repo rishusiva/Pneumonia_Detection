@@ -94,7 +94,7 @@ Rishikesh S
 Ananya Negi
 
 <p align="center">
-<img src = "https://media-exp1.licdn.com/dms/image/C5603AQFWtScFec6b1g/profile-displayphoto-shrink_400_400/0/1644987624251?e=1655942400&v=beta&t=mQ4hh_VCX_XVs3kZ58_OwyxXZTdJeIJDMH6RZ-x6Zywhttps://avatars.githubusercontent.com/u/53835355?v=4"  height="120" alt="Your Name Here (Insert Your Image Link In Src">
+<img src = "https://avatars.githubusercontent.com/u/54092197?s=400&u=f339a6f1809f737686d50caf2ec8d98bddf38a32&v=4"  height="120" >
 </p>
 <p align="center">
 <a href = "https://github.com/AnanyaNegi"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36"/></a>
